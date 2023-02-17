@@ -1,1 +1,8 @@
+Pitch 1: Real Estate(US Real Estate API) and US Census data API
 
+ - The user can search by demographics using the census data and find whether real estate listings are good or bad.
+ - Database: Oracle
+ - Third Party OAuth: Google(Gmail) authentication
+ - Front End: Website that asks the user to input a property and recommend whether the listing is good or bad.
+ - Back End: Use the census data to find the demographics of the area, and use the real estate API to match that with the listing.
+ 
